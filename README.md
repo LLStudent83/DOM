@@ -1,6 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ywy6r09sfhdt97aq?svg=true)](https://ci.appveyor.com/project/LLStudent83/continuous-deployment)
+[![Build status](https://ci.appveyor.com/api/projects/status/ywy6r09sfhdt97aq?svg=true)](https://ci.appveyor.com/project/LLStudent83/DOM)
 
-https://llstudent83.github.io/Continuous-Deployment/
+https://llstudent83.github.io/DOM/
 
 
 # Webpack5
