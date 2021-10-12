@@ -10,6 +10,12 @@
       "error",
       "LabeledStatement",
       "WithStatement"
-    ]
+    ],
+    "no-console": "off",
+    // "eslint linebreak-style": [
+    //   "error", "windows"
+    // ],
+    "linebreak-style": 0,
+    "max-len": ["error", { "code": 200 }]
   }
 }
